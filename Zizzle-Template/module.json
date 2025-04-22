@@ -1,0 +1,16 @@
+{
+  "name": "zizzle-template",
+  "title": "Zizzle Template",
+  "description": "A custom journal template with buttons and CSS overrides.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "author": "You",
+  "esmodules": ["scripts/journal-sheet.js"],
+  "styles": ["styles/custom-journal.css"],
+  "packs": [],
+  "systems": [],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

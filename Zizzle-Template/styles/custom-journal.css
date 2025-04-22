@@ -1,0 +1,14 @@
+.custom-journal .journal-entry-content {
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 20px;
+  font-family: 'Georgia', serif;
+}
+
+.callout-block {
+  background: #222;
+  border-left: 4px solid #ffcc00;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
